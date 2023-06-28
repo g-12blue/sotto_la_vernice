@@ -14,6 +14,7 @@ let colors = ["coral", "mediumturquoise", "antiquewhite", "darkred"];
 
 function preload() {
 //ho creato un array per la selezione dell'immagine
+
 possible_images = [
 	"immagini/tavole_01.png",
 "immagini/tavole_02.png",
