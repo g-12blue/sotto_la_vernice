@@ -31,7 +31,6 @@ Se l'indice e il pollice sono distanti, il sistema non attiva la funzione di can
 
 Inoltre, il nome "sotto la vernice", suggerisce che ci sia qualcosa di più profondo da scoprire al di là della superficie delle opere d'arte impressioniste francesi, come l'educazione artistica o l'idea che dietro ogni opera d'arte c'è un artista con la propria visione, intenzioni e stile unico.
 
-[<img src="doc/cards.gif" width="500" alt="Magic trick">]()
 
 
 ## Tecnologia usata
