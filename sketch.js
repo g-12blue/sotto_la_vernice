@@ -15,13 +15,13 @@ let colors = ["coral", "mediumturquoise", "antiquewhite", "darkred"];
 function preload() {
 //ho creato un array per la selezione dell'immagine
 possible_images = [
-	"/immagini/tavole_01.png",
-"/immagini/tavole_02.png",
-"/immagini/tavole_03.png",
-"/immagini/tavole_04.png",
-"/immagini/tavole_05.png",
-"/immagini/tavole_06.png",
-"/immagini/tavole_07.png",
+	"immagini/tavole_01.png",
+"immagini/tavole_02.png",
+"immagini/tavole_03.png",
+"immagini/tavole_04.png",
+"immagini/tavole_05.png",
+"immagini/tavole_06.png",
+"immagini/tavole_07.png",
 ];
 
 var pos = floor(random(possible_images.length));
