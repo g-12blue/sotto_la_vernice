@@ -201,5 +201,3 @@ Il programma è rivolto agli appassionati d'arte, per approfondire la loro conos
 Il programma potrebbe inoltre essere adottato da musei, per offrire un'esperienza interattiva ai visitatori, o può essere utilizzato anche come strumento di apprendimento autonomo.
 
 In generale, il programma mira a coinvolgere e informare gli utenti sull'arte impressionista francese attraverso un'interazione intuitiva e coinvolgente, offrendo un'alternativa digitale all'esplorazione tradizionale delle opere d'arte.
-
-[<img src="doc/munari.jpg" width="300" alt="Supplemento al dizionario italiano">]()
